@@ -1,4 +1,4 @@
-# azure_resource_group
+# Azure Resource Group
 This will create an Azure Resource Group. The user must provide a valid location (i.e. East US)
 
 You can apply a policy to the region. The following has already been added to the scalr-module.hcl:
